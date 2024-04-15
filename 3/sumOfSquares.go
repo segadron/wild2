@@ -30,5 +30,5 @@ func main() {
 		total += square
 	}
 
-	fmt.Println("Sum of squares:", total)
+	fmt.Println("Сумма квадратов:", total)
 }
